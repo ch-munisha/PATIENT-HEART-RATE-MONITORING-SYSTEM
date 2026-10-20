@@ -44,4 +44,7 @@ To design a system that monitors a patient's heart rate and displays the reading
 ### ~Simmulation:
 ![](Simmulation.png)
 https://www.tinkercad.com/things/emCzpSfzMcO-patient-heart-rate-monitoring-system
+### ~Conclusion:
+
+The Patient Heart Rate Monitoring System successfully demonstrates simulated heart rate monitoring using Arduino Uno and Tinkercad. It displays BPM readings and activates a buzzer when the readings are outside the predefined range. This project provides a basic understanding of patient monitoring and healthcare automation.
 
