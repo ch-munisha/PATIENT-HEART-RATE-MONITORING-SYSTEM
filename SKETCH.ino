@@ -1,6 +1,6 @@
 
 const int pulsePin = A0;
-const int buzzerPin = 8;
+const int buzzerPin = 2;
 
 const int threshold = 550;
 const int lowLimit = 60;
